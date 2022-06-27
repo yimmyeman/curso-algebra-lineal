@@ -1,7 +1,9 @@
 ---
 title: "Tema 0 - Demostraciones"
 author: "María Santos"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}

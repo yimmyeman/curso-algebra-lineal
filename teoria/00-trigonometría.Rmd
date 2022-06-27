@@ -1,7 +1,9 @@
 ---
 title: "Trigonometría - Resumen de Fórmulas"
 author: "Curso Álgebra Lineal"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 css: Mery_style.css
 ---
 
